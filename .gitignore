@@ -1,0 +1,30 @@
+# Flutter/Dart 관련
+.dart_tool/
+.pub/
+.pub-cache/
+build/
+*.lock
+
+# Android 관련
+*.iml
+.gradle/
+local.properties
+*.apk
+*.aab
+
+# iOS 관련
+*.xcworkspace
+*.xccache
+Podfile.lock
+Pods/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Generated files
+*.gen.dart
+*.g.dart
